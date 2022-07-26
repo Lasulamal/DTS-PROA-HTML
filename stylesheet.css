@@ -84,7 +84,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(34, 49, 52, 0.9);
+  background-color: rgba(46, 179, 206, 0.9);
   position: fixed;
   top: 0;
   z-index: 10;
@@ -101,19 +101,20 @@ header {
 
 .header-right {
   float: center;
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(46, 179, 206, 0.9);
   transition: all 0.5s;
 }
 
 .header-right:hover {
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(46, 179, 206, 0.9);
 }
 
 .header-right a {
   line-height: 65px;
-  padding: 0 25px;
+  padding: 0 0px;
   color: white;
   display: block;
+  text-align: center
 }
 
 .lesson-wrapper {
