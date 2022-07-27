@@ -104,7 +104,7 @@ container-header{
 header {
   height: 65px;
   width: 100%;
-  background-color: rgba(46, 179, 206, 0.9);
+  background-color: rgba(0, 0, 0, 0.9);
   position: fixed;
   top: 0;
   z-index: 10;
@@ -121,12 +121,12 @@ header {
 
 .header-right {
   float: center;
-  background-color: rgba(46, 179, 206, 0.9);
+  background-color: rgba(6, 36, 43, 0.9);
   transition: all 0.5s;
 }
 
 .header-right:hover {
-  background-color: rgba(46, 179, 206, 0.9);
+  background-color: rgba(6, 36, 43, 0.9);
 }
 
 .header-right a {
