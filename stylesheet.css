@@ -21,13 +21,18 @@ a {
 /* Ketik code Anda dibaris bawah */
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-image: url(images/Digitalent_Proa.jpg) ;
   background-size: cover;
   color: white;
   text-align: center;
 }
 
 .container {
+  width: 1070px;
+  margin: 0 auto;
+}
+
+container-header{
   width: 100%;
   margin: 0 auto;
 }
