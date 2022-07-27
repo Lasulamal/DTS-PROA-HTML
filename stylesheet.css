@@ -166,7 +166,7 @@ img {
 }
 
 .txt-content {
-  margin-left: 45px;
+  text-align: -webkit-center;
   margin-top: 20px;
 }
 
