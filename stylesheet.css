@@ -150,12 +150,20 @@ header {
   color: white;
 }
 
-.txt-contents {
-  width: 80%;
-  display: inline-block;
+img {
+  width: 196px;
+  border-radius: 50%;
+}
+
+.txt-content {
+  margin-left: 45px;
+}
+
+table tr td {
   margin-top: 20px;
   font-size: 15px;
   color: #b3aeb5;
+  text-align: justify;
 }
 
 .message-wrapper {
