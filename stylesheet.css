@@ -81,6 +81,10 @@ container-header{
   display: inline-block;
 }
 
+.btn-instagram:hover {
+  opacity: 1;
+}
+
 .btn {
   padding: 12px 24px;
   color: white;
