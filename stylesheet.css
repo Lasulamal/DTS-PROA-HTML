@@ -219,3 +219,6 @@ footer {
   padding-top: 30px;
 }
 
+.clear {
+  clear: left;
+}
