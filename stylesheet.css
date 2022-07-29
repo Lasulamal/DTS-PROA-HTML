@@ -1,4 +1,8 @@
 /* Reset CSS (JANGAN DIHAPUS) */
+*{
+  box-sizing: border-box;
+}
+
 html, body,
 ul, ol, li,
 h1, h2, h3, h4, h5, h6, p, div {
@@ -29,7 +33,9 @@ a {
 }
 
 .container {
-  width: 1070px;
+  max-width: 1170;
+  width: 100%;
+  padding: 0 15px;
   margin: 0 auto;
 }
 
@@ -138,7 +144,6 @@ header {
 }
 
 .lesson-wrapper {
-  height: 500px;
   padding-bottom: 80px;
   background-color: #f7f7f7;
   text-align: center;
