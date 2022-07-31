@@ -175,8 +175,9 @@ header {
   color: white;
 }
 
-img {
+.lesson-icon img {
   width: 196px;
+  height: 196px;
   border-radius: 50%;
 }
 
