@@ -8,6 +8,7 @@ ul, ol, li,
 h1, h2, h3, h4, h5, h6, p, div {
   margin: 0;
   padding: 0;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -34,7 +35,7 @@ a {
 
 .container {
   max-width: 1170;
-  width: 100%;
+  width: 75%;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -84,7 +85,7 @@ container-header{
   opacity: 0.8;
   border-radius: 4px;
   margin-top: 20px;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 .btn-instagram:hover {
