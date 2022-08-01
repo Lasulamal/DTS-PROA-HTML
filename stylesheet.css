@@ -86,7 +86,7 @@ container-header{
   opacity: 0.8;
   border-radius: 4px;
   margin-top: 20px;
-  /* display: inline-block; */
+  display: inline-block;
 }
 
 .btn-instagram:hover {
